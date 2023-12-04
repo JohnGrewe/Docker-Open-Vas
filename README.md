@@ -102,9 +102,8 @@ nano docker-compose.yml
 ```
 ```
 sudo docker-compose up -d
-
 ```
-	port already allocated
+port already allocated
 rebooted
 ```
 sudo docker-compose up -d
