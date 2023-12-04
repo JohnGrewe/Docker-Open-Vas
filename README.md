@@ -110,6 +110,7 @@ rebooted
 sudo docker-compose up -d
 ```
 opened up
+
 ![image](https://github.com/JohnGrewe/Docker-Open-Vas/assets/112670893/329b5f8e-9d70-41e7-b7d8-56fe736acfd7)
 
 Changed to:![image](https://github.com/JohnGrewe/Docker-Open-Vas/assets/112670893/f9402890-4f82-475a-ba4a-9b15972d4c4e)
